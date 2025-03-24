@@ -21,7 +21,8 @@ If you want to "walk" through the map :
 - Look to your left : left arrow
 - Look upwards : A or Q
 - Look downwards : Z or W
-- Reset the angle of the camera : 0\
+- Reset the angle of the camera : 0
+
 Sidenote : if you try to walk out of bounds, it'll throw an error and you'll have to restart the program.
 
 You can also show or hide some elements of the map :
