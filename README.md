@@ -14,7 +14,7 @@ The only controls needed are keys.
 
 If you want to "walk" through the map :
 - Walk forward : up arrow
-- Look to your :  right arrow
+- Look to your right :  right arrow
 - Look to your left : left arrow
 - Look upwards : A or Q
 - Look downwards : Z or W
@@ -22,7 +22,7 @@ If you want to "walk" through the map :
 
 Sidenote : if you try to walk out of bounds, it'll throw an error and you'll have to restart the program.
 
-You can also show or hide some elements of the map :
+You can also show or hide some elements on the map :
 - XYZ axis : R
 - Electric lines : P
 - Wind turbine (and the small "city" it's connected to) : E
