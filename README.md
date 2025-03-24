@@ -1,9 +1,6 @@
 # 3D Terrain Modelisation : a Computer Graphics project
 
 
-
-## Quick introduction
-
 This project was made for a Computer Graphics class, in our 2nd year of Computer Science bachelor's degree at Université Paris-Saclay.\
 It's a small 3D terrain simulation, with a 1st-person camera view allowing you to "walk" through the map.\
 The project was coded in Processing, with GLSL shaders.
